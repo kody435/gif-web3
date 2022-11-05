@@ -1,6 +1,6 @@
 # Param's Anime GIF Portal Project
 
-### You can view it's final view here [GIF Collection](https://gif-web3.vercel.app/)
+### You can view it's final view [here](https://gif-web3.vercel.app/)
 
 ### Some preview images 👇🏻
 
